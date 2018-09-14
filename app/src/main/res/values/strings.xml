@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiAiDemo</string>
+    <string name="test_asr">测试ASR</string>
+    <string name="test_nlp">测试NLP</string>
+    <string name="test_tts">测试tts</string>
+
+    <string name="test_result">实时结果</string>
+</resources>

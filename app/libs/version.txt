@@ -1,0 +1,13 @@
+git@v9.git.n.xiaomi.com:ai-service/aivs-client.git commit:2abb1a56a83d57146e73477635d94eabd4222e97
+git@v9.git.n.xiaomi.com:ai-service/aivs-client-java.git commit:490fd52b332452bbeddbedad56613e6538d90a4f
+armeabi libmibraindec.so md5:d8adccd7a5bb004f800bad0e6239f01d
+armeabi libmibrainjni.so md5:f8fe732772e413d41a550e1af48a28ad
+armeabi libmibrainsdk.so md5:6962e7c311838ec6580ae211541fbb96
+armeabi-v7a libmibraindec.so md5:222703e0a558a017705c739e8ad28968
+armeabi-v7a libmibrainjni.so md5:52c6c26679ddec6464636c5e26b533af
+armeabi-v7a libmibrainsdk.so md5:b1fa9b9f5cfe14994b8b96d8be6d48db
+x86 libmibraindec.so md5:8cbd0eca567fe51124a3aa99e7ed054c
+x86 libmibrainjni.so md5:5907a16a6185a5011cc4a360a74e8e70
+x86 libmibrainsdk.so md5:3153e823b066393ba85cad16647ad657
+mibrainsdk-0.2.6.jar md5:
+androidaisdk-0.2.6.jar md5:
